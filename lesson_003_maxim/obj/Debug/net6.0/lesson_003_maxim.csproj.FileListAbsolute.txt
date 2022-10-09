@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\bin\Debug\net6.0\lesson_003_maxim.exe
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\bin\Debug\net6.0\lesson_003_maxim.deps.json
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\bin\Debug\net6.0\lesson_003_maxim.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\bin\Debug\net6.0\lesson_003_maxim.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\bin\Debug\net6.0\lesson_003_maxim.pdb
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\refint\lesson_003_maxim.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.pdb
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\lesson_003_maxim.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003_maxim\obj\Debug\net6.0\ref\lesson_003_maxim.dll
