@@ -1,0 +1,15 @@
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\bin\Debug\net6.0\lesson_003.exe
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\bin\Debug\net6.0\lesson_003.deps.json
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\bin\Debug\net6.0\lesson_003.runtimeconfig.json
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\bin\Debug\net6.0\lesson_003.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\bin\Debug\net6.0\lesson_003.pdb
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.AssemblyInfoInputs.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.AssemblyInfo.cs
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\refint\lesson_003.dll
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.pdb
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\lesson_003.genruntimeconfig.cache
+C:\Users\RUSLAN\Desktop\Lesson\lesson_003\obj\Debug\net6.0\ref\lesson_003.dll
